@@ -1,0 +1,27 @@
+.SearchBox {
+    background-color: aqua;
+}
+
+
+
+.btn {
+    width: 100%;
+}
+
+h1 {
+    font-size: 30px;
+
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    text-align: end;
+}
+
+.card-body {
+    margin:15px ;
+    outline-style:auto;
+}
